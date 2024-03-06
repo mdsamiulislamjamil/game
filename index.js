@@ -1,0 +1,5 @@
+console.log( 'Hello World')
+console.log( '66')
+console.log( 'My name samiul islam jami')
+console.log('samiul +9')
+console.log('my fa nomber'+ 9)
